@@ -15,7 +15,7 @@ POLICE = [
     [
         InlineKeyboardButton(
             text="⛩️•⏤⵿⵿꤫꤫⛦⃕‌𐏓‌︭ 𝐁𝐈𝐋𝐋𝐀᭄𝐆𝐀𝐍𝐆𐏓‌︭᪳𝆺꯭𝅥⏤‌❥‌",
-            url=f"https://t.me/BILLA_GANG_NETWORK",
+            url=f"https://t.me/BILLA_GANG_NTWK",
         ),
     ],
 ]
